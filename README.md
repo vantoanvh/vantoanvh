@@ -5,7 +5,7 @@ I can no longer access the DevForum due to recent age verification changes, whic
 I’m developing a **Luau** project series:
 
 - **`LuauNES`** most performant Luau NES emulator
-- **`LuauParser`** supports **Luau** version **0.710**
+- **`LuauParser`** supports **Luau** version **0.715**
 - **`LuauPorts`** collection of ported algorithms
-- <s>*`LuauGBA`*</s> functional Gameboy Advance, but too slow and not accurate enough to play complex games.
+- <s>*`LuauGBA`*</s> functional Gameboy Advance, but too slow.
 - <s>*`LuauCompiler`*</s> planned future work, but kinda lazy to do one.
