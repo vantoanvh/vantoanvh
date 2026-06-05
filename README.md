@@ -1,4 +1,4 @@
-I’m currently in the middle of exams, so my schedule is quite busy and I have limited time for homework and other activities.
+Finally, it’s summer break!
 
 I can no longer access the DevForum due to recent age verification changes, which are restricted in my country. So I created a new DevForum account with age verification enabled called [vantoanvh_dev](https://www.roblox.com/users/10753610886/profile).
 
