@@ -4,6 +4,6 @@ I’m developing a **Luau** project series:
 
 - **`LuauNES`** most performant Luau NES emulator
 - **`LuauDOOM`** accurate and 1:1 port of doom engine
-- **`LuauParser`** supports **Luau** version **0.728**
+- **`LuauParser`** supports lastest **Luau** version
 - **`LuauPorts`** collection of ported algorithms
 - <s>*`LuauCompiler`*</s> planned future work, but kinda lazy to do one.
