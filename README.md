@@ -1,9 +1,10 @@
-I can no longer access the DevForum due to recent age verification changes, which are restricted in my country. So I created a new DevForum account with age verification enabled called [vantoanvh_dev](https://www.roblox.com/users/10753610886/profile).
+Devforum: **[vantoanvh_dev](https://www.roblox.com/users/10753610886/profile)**<br>
+Roblox: **[vantoanvh](https://www.roblox.com/users/1161745720/profile)**<br>
 
-I’m developing a **Luau** project series:
+Some projects I made:
 
-- **`LuauNES`** most performant Luau NES emulator
-- **`LuauDOOM`** accurate and 1:1 port of doom engine
-- **`LuauParser`** supports lastest **Luau** version
-- **`LuauPorts`** collection of ported algorithms
-- <s>*`LuauCompiler`*</s> planned future work, but kinda lazy to do one.
+- [**`LuauNES`**](https://github.com/vantoanvh/LuauNES): NES emulator in luau
+- [**`LuauDOOM`**](https://github.com/vantoanvh/LuauDOOM): DOOM engine in luau
+- [**`LuauParser`**](https://github.com/vantoanvh/LuauParser): Luau Parser in luau
+- [**`LuauPorts`**](https://github.com/vantoanvh/LuauPorts): Random ports
+- [ **`Scripting+`**](https://devforum.roblox.com/t/scripting-the-best-all-in-one-scripting-plugin-its-free/4679477): Scripting plugin for roblox
